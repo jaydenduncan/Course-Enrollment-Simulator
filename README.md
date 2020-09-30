@@ -71,7 +71,7 @@ f.close()
 ```
 
 ## Usage
-This course enrollment project can be downloaded and ran using any any IDE compatible with Python. Some Python IDE's include:
+This course enrollment project can be downloaded and ran using any IDE compatible with Python. Some Python IDE's include:
 * IDLE
 * PyCharm
 * Spyder
@@ -79,3 +79,4 @@ This course enrollment project can be downloaded and ran using any any IDE compa
 * Visual Studio for Python
 
 To run this program, click 'run' at the top of the screen:
+![Image](https://user-images.githubusercontent.com/71575315/94645312-22b9c900-02b1-11eb-94be-77894bdd3ca6.jpg)
