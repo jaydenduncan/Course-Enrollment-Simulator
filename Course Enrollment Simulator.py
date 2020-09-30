@@ -789,13 +789,6 @@ print(schoolInformation) #prints all the contents of the file to the console scr
 
 printInfo.close() #closes the file again
 
-"""SUMMARY: The class, firstPage, will print out the four-line heading for this application. The function, monthSwitch, contains a switch statement that
-    contains a dictionary of the months of the year for when they need to be called from the Date_Input function. The StudentNumber_Input function
-    will accept the student's student number and store it in a list and output file. The Major_Input function will accept the student's major and store it in
-    a list and output file as well, followed by the while loop which will accept the advisor name and store it. The course input functions will accept
-    the student's course information and also validate those courses before storing the information in their respective lists and writing it to the output
-    file called 'Student Info'. At the end of the application, the 'Student Info' file will be read and the contents on the file will be printed."""
-
 end_program = input("Thanks for using the Course Enrollment Simulator! Press the enter key to end the program: ")
 #waits for the user to press the enter key to end the program
     
