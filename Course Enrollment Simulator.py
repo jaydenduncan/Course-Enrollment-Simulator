@@ -4,7 +4,7 @@ Author: Jayden Duncan
 Created: December 9, 2019
 Description: This project will accept information from the user to label an enrollment page and then ask the user to input information for up to six
              different courses, which will be printed to the screen and a file for output.
-Code Language: Python
+Code Language: Python 3
 
 """
 
@@ -18,7 +18,6 @@ class firstPage:
     def print_firstPage(self):
         print("%100s"  %  "Jacksonville State University")#pushes the University name over 100 spaces to center it
         print("%94s" % "Fall Semester 2019")
-        print("%88s" % "CS 230")
         print("%91s" % "Jayden Duncan")
         
 #Instantiates the firstPage class, creating an object that can call the class's method
