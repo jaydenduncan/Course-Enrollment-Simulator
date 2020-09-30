@@ -79,4 +79,3 @@ This course enrollment project can be downloaded and ran using any any IDE compa
 * Visual Studio for Python
 
 To run this program, click 'run' at the top of the screen:
-![Run the Program](C:\Users\jayde\OneDrive\Pictures\Screenshots\Github1.jpg)
