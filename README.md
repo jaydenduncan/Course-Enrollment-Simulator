@@ -79,4 +79,7 @@ This course enrollment project can be downloaded and ran using any IDE compatibl
 * Visual Studio for Python
 
 To run this program, click 'run' at the top of the screen:
-![Image](https://user-images.githubusercontent.com/71575315/94645312-22b9c900-02b1-11eb-94be-77894bdd3ca6.jpg)
+![Image1](https://user-images.githubusercontent.com/71575315/94645312-22b9c900-02b1-11eb-94be-77894bdd3ca6.jpg)
+
+Click 'Run Module' under 'Run':
+![Image2](https://user-images.githubusercontent.com/71575315/94645875-8b557580-02b2-11eb-8f34-d9f62d5c8258.png)
