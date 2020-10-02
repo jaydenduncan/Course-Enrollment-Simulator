@@ -8,6 +8,8 @@ This project accepts student and course information from the user and prints the
   * [File Output](#file-output)
 * [Usage](#usage)
 
+---
+
 ## Project Info
 In this course enrollment simulation, a four-line heading will be printed out to the screen using a class. A function containing a switch statement with a dictionary of the months of the year is provided for use in the Date_Input function. Another function will accept the user's student ID number and store it in a list to be written to a file. A function for accepting the major of the user is also provided, which stores the major in a list to be written to the file along with the student ID. Similar functions are provided to accept the user's name and the name of the advisor, which are also stored in a list and written to the file. More functions are given to accept and store course information input by the user. At the end of the program, all the contents of the file will be read and printed to the console screen.
 
@@ -70,8 +72,38 @@ The file is closed using the close function after it's modifications are complet
 f.close()
 ```
 
+---
+
+## Installation
+The following are instructions for installing Python for three different platforms. More information about the setup and installation of Python across different platforms can be accessed from the [Python Setup and Usage](https://docs.python.org/release/3.8.5/using/index.html) section of the [Python website](https://www.python.org).
+### Linux
+* FreeBSD users add the Python package using the following command:
+  ```
+  pkg install python3
+  ```
+* OpenBSD users add the Python package using these commands:
+  ```
+  pkg_add -r python
+  pkg_add ftp://ftp.openbsd.org/pub/OpenBSD/4.2/packages/<insert your architecture here>/python-<version>.tgz
+  ```
+### Windows
+Find a link to install a Python release from the [Python website](https://www.python.org/download/releases/). Python 3.8 is recommended for Windows Vista or newer. Python 3.4 is recommended for Windows XP.
+To install Python from Windows:
+1. Click a link from the website to start the installer.
+2. Select 'Install Now' or 'Customize installation'.
+
+   To silently install a default, system-wide Python installation:
+   ```
+   python-3.8.0.exe /quiet InstallAllUsers=1 PrependPath=1 Include_test=0
+   ```
+### Macintosh
+Users of Mac OS X 10.8 have Python 2.7 preinstalled. However, the recent version of Python 3 may be installed from the [Python Website](https://www.python.org) if the user wishes to do so. A Python 3.8 folder is provided after installing a newer version of Python. A framework is also provided:
+```
+/Library/Frameworks/Python.framework
+```
+
 ## Usage
-This course enrollment project can be downloaded and ran using any IDE compatible with Python. Some Python IDE's include:
+This project may be run using the IDLE IDE. Other Python IDE's include:
 * IDLE
 * PyCharm
 * Spyder
