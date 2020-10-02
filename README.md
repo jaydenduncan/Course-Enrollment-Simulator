@@ -68,7 +68,7 @@ In order to write the contents of the user's input to a file, the information wa
 f = open("filename", 'file mode')
 f.truncate(0)
 ```
-After previous content is erased, the file is ready for new output, which in terms of this project would be the student and course information. After placing the content that's gonna be displayed in the file into a file list, the writelines function can now be used to output the information to the file:
+After previous content is erased, the file is ready for new output, which in terms of this project would be the student and course information. After placing the content that's going to be displayed in the file into a file list, the writelines function can now be used to output the information to the file:
 ```
 file_list = ["Some information...", "abc", "def"]
 f.writelines(file_list)
@@ -131,10 +131,12 @@ To run this program, click 'run' at the top of the screen:
 Click 'Run Module' under 'Run':
 ![Image2](https://user-images.githubusercontent.com/71575315/94645875-8b557580-02b2-11eb-8f34-d9f62d5c8258.png)
 
+For information on how the project works, refer to the [Project Info](#project-info) section seen earlier in this README.md file.
+
 ## Contribution
 Pull requests are always welcome!
 
 ## License
 [![Github license](https://img.shields.io/github/license/jaydenduncan/Course-Enrollment-Simulator)](https://github.com/jaydenduncan/Course-Enrollment-Simulator/blob/master/LICENSE)
 
-Project is under the MIT license
+Licensed under the [MIT License](https://opensource.org/licenses/MIT)
