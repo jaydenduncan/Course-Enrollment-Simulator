@@ -6,7 +6,13 @@ This project accepts student and course information from the user and prints the
   * [User Input](#user-input)
   * [Console Output](#console-output)
   * [File Output](#file-output)
+* [Installation](#installation)
+  * [Linux](#linux) 
+  * [Windows](#windows)
+  * [Macintosh](#macintosh)
 * [Usage](#usage)
+* [Contribution](#contribution)
+* [License](#license)
 
 ---
 
@@ -124,3 +130,11 @@ To run this program, click 'run' at the top of the screen:
 
 Click 'Run Module' under 'Run':
 ![Image2](https://user-images.githubusercontent.com/71575315/94645875-8b557580-02b2-11eb-8f34-d9f62d5c8258.png)
+
+## Contribution
+Pull requests are always welcome!
+
+## License
+[![Github license](https://img.shields.io/github/license/jaydenduncan/Course-Enrollment-Simulator)](https://github.com/jaydenduncan/Course-Enrollment-Simulator/blob/master/LICENSE)
+
+Project is under the MIT license
