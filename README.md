@@ -103,6 +103,15 @@ Users of Mac OS X 10.8 have Python 2.7 preinstalled. However, the recent version
 ```
 
 ## Usage
+To clone a repository on Github:
+1. Under repository name, click 'Clone or Download'.
+2. Copy the clone URL in the 'Clone with HTTPs' section.
+3. Open Git Bash and change the current working directory to the location you want it to be in.
+4. Type 'git clone' followed by the URL and then press **Enter**:
+   ```
+   $ git clone https://hostname/USERNAME/REPOSITORY
+   ``` 
+
 This project may be run using the IDLE IDE. Other Python IDE's include:
 * IDLE
 * PyCharm
