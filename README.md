@@ -117,6 +117,7 @@ To clone a repository on Github:
    ```
    $ git clone https://hostname/USERNAME/REPOSITORY
    ``` 
+For more information on cloning for Github, review the website for [Github Docs](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
 
 This project may be run using the IDLE IDE. Other Python IDE's include:
 * IDLE
